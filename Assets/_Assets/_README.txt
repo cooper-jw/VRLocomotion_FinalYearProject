@@ -1,0 +1,1 @@
+All assets in this folder are not my own and are all used for educational purposes. My work can be found in other folders. A source is provided in each folder.
